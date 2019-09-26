@@ -1,2 +1,2 @@
-# Coursera-Economitrics
-Train Exercises and Tests of Economitrics on Coursera Using Python
+# Coursera-Econometrics
+Train and Test Exercises of Econometrics MOOC on Coursera Using Python
